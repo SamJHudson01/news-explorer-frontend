@@ -1,0 +1,996 @@
+{
+    "status": "ok",
+    "totalResults": 0,
+    "articles": [
+        {
+            "title": "Seven major automakers unite to build North American EV charging network",
+            "author": "theglobeandmail.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:54:03Z",
+            "url": "https://biztoc.com/x/47e66b60ecd68089"
+        },
+        {
+            "title": "Musk’s mad superapp-etite: Why his ‘everything app’ might miss the mark",
+            "author": "Jess Jones",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "City A.M."
+            },
+            "publishedAt": "2023-07-26T14:53:29Z",
+            "url": "https://www.cityam.com/musks-mad-superapp-etite-why-his-everything-app-might-miss-the-mark/"
+        },
+        {
+            "title": "ZeroSum Market First Report July 2023: New and Used Car Inventory is Down from June, but the Market is in a Much Stronger Place than One Year Ago",
+            "author": null,
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "PRNewswire"
+            },
+            "publishedAt": "2023-07-26T14:53:00Z",
+            "url": "https://www.prnewswire.com/news-releases/zerosum-market-first-report-july-2023-new-and-used-car-inventory-is-down-from-june-but-the-market-is-in-a-much-stronger-place-than-one-year-ago-301886409.html"
+        },
+        {
+            "title": "In challenge to Tesla, major automakers launch EV charging network",
+            "author": "aol.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:52:10Z",
+            "url": "https://biztoc.com/x/8c80b6c4713781df"
+        },
+        {
+            "title": "UPS : Barclays sticks Neutral",
+            "author": "MarketScreener with dpa-AFX Analyser",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T14:46:02Z",
+            "url": "https://www.marketscreener.com/quote/stock/UNITED-PARCEL-SERVICE-INC-14758/news/UPS-Barclays-sticks-Neutral-44426252/"
+        },
+        {
+            "title": "The Best Trunk Organizers For Both Cars and SUVs",
+            "author": "Cool Material",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Coolmaterial.com"
+            },
+            "publishedAt": "2023-07-26T14:44:04Z",
+            "url": "https://coolmaterial.com/rides/best-trunk-organizers/"
+        },
+        {
+            "title": "Twitter's Community Notes Defends Tesla Against Dangerous Accusation",
+            "author": "thestreet.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:42:11Z",
+            "url": "https://biztoc.com/x/18bca31fe302ce9d"
+        },
+        {
+            "title": "Seven major automakers are teaming up on a North American EV charging network",
+            "author": "Umar Shakir",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "the-verge",
+                "Name": "The Verge"
+            },
+            "publishedAt": "2023-07-26T14:39:53Z",
+            "url": "https://www.theverge.com/2023/7/26/23808270/bmw-honda-gm-joint-venture-north-american-ev-charging-network"
+        },
+        {
+            "title": "Major automakers unite to build electric vehicle charging network they say will rival Tesla's",
+            "author": "aol.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:38:09Z",
+            "url": "https://biztoc.com/x/c7ef6ee2d9255745"
+        },
+        {
+            "title": "XPeng’s stock rockets after Volkswagen invests $700 million, announces cooperation agreements",
+            "author": "Tomi Kilgore",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "MarketWatch"
+            },
+            "publishedAt": "2023-07-26T14:31:00Z",
+            "url": "https://www.marketwatch.com/story/xpengs-stock-soars-after-volkswagen-invests-700-million-announces-cooperation-agreements-2a8cb9b4"
+        },
+        {
+            "title": "Major automakers unite to build electric vehicle charging network they say will rival Tesla's",
+            "author": "apnews.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:30:04Z",
+            "url": "https://biztoc.com/x/4d87100f3e556f9f"
+        },
+        {
+            "title": "In challenge to Tesla, major automakers launch EV charging network",
+            "author": "reuters.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:30:04Z",
+            "url": "https://biztoc.com/x/c2bdd198856c91a1"
+        },
+        {
+            "title": "7 major automakers to build open EV charging network",
+            "author": "Byron Hurd",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Autoblog"
+            },
+            "publishedAt": "2023-07-26T14:24:00Z",
+            "url": "https://www.autoblog.com/2023/07/26/7-major-automakers-to-build-open-ev-charging-network/"
+        },
+        {
+            "title": "Tesla finally confirms Supercharger V4 has 350 kW output",
+            "author": "Fred Lambert",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Electrek"
+            },
+            "publishedAt": "2023-07-26T14:23:01Z",
+            "url": "https://electrek.co/2023/07/26/tesla-confirms-supercharger-v4-350-kw-output/"
+        },
+        {
+            "title": "7 auto giants unite to build universal network of 30K+ clean-energy-powered fast chargers to North America",
+            "author": "Scooter Doll",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Electrek"
+            },
+            "publishedAt": "2023-07-26T14:19:15Z",
+            "url": "https://electrek.co/2023/07/26/auto-giants-unite-build-universal-network-clean-energy-fast-charger-north-america/"
+        },
+        {
+            "title": "UPDATE 1-Volkswagen to expand China EV line-up with Xpeng, SAIC partnerships",
+            "author": "finance.yahoo.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T14:18:08Z",
+            "url": "https://biztoc.com/x/5af67ad78723db6c"
+        },
+        {
+            "title": "7 Automakers To Form EV Charging Joint Venture With 30,000 Chargers",
+            "author": "Sam Abuelsamid, Senior Contributor, \n Sam Abuelsamid, Senior Contributor\n https://www.forbes.com/sites/samabuelsamid/",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Forbes"
+            },
+            "publishedAt": "2023-07-26T14:16:51Z",
+            "url": "https://www.forbes.com/sites/samabuelsamid/2023/07/26/7-automakers-to-form-ev-charging-joint-venture-with-30000-chargers/"
+        },
+        {
+            "title": "In challenge to Tesla, major automakers launch EV charging network",
+            "author": "Reuters",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T14:16:40Z",
+            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/In-challenge-to-Tesla-major-automakers-launch-EV-charging-network-44425903/"
+        },
+        {
+            "title": "In challenge to Tesla, major automakers launch EV charging network",
+            "author": null,
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "CNA"
+            },
+            "publishedAt": "2023-07-26T14:16:40Z",
+            "url": "https://www.channelnewsasia.com/business/challenge-tesla-major-automakers-launch-ev-charging-network-3656366"
+        },
+        {
+            "title": "Is There Any Hope Left for Lyft Stock?",
+            "author": "newsfeedback@fool.com (Brett Schafer)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T14:15:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/is-there-any-hope-left-for-lyft-stock/"
+        },
+        {
+            "title": "House Republicans want to hold Mark Zuckerberg in contempt, saying he 'willfully refused' to comply with a subpoena",
+            "author": "Farnoush Amiri, The Associated Press",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "fortune",
+                "Name": "Fortune"
+            },
+            "publishedAt": "2023-07-26T14:12:59Z",
+            "url": "https://fortune.com/2023/07/26/mark-zuckerberg-contempt-congress-jim-jordan-house-republicans-subpoena/"
+        },
+        {
+            "title": "Nvidia's Newest Service Makes It Easier Than Ever to Train AI -- What Investors Need to Know",
+            "author": "newsfeedback@fool.com (Nicholas Rossolillo)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T14:05:45Z",
+            "url": "https://www.fool.com/investing/2023/07/26/nvidias-newest-service-makes-it-easier-than-ever-t/"
+        },
+        {
+            "title": "2023 Tesla Model 3 RWD review",
+            "author": "Alex Misoyannis",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Drive.com.au"
+            },
+            "publishedAt": "2023-07-26T14:01:00Z",
+            "url": "https://www.drive.com.au/reviews/2023-tesla-model-3-rwd-review/"
+        },
+        {
+            "title": "XPeng Stock Soars on Bombshell Investment by Volkswagen",
+            "author": "Al Root",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Barron's"
+            },
+            "publishedAt": "2023-07-26T13:56:28Z",
+            "url": "https://www.barrons.com/articles/xpeng-stock-investment-volkswagen-aa6ed4b8"
+        },
+        {
+            "title": "Evidence-free conspiracy theories about the Obamas’ chef get a boost on X, formerly known as Twitter",
+            "author": "David Ingram",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "nbc-news",
+                "Name": "NBC News"
+            },
+            "publishedAt": "2023-07-26T13:56:24Z",
+            "url": "https://www.nbcnews.com/tech/internet/evidence-free-conspiracy-theories-obamas-chef-get-boost-x-formerly-kno-rcna96255"
+        },
+        {
+            "title": "How Much Do Musk, Buffett and Other Billionaires Pay in Social Security Taxes?",
+            "author": "Vance Cariaga",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Yahoo Entertainment"
+            },
+            "publishedAt": "2023-07-26T13:47:25Z",
+            "url": "https://finance.yahoo.com/news/much-musk-buffett-other-billionaires-134725246.html"
+        },
+        {
+            "title": "Rebranding Twitter to X Sends Dogecoin On A Rally — Here’s Why DOGE Could Explode to $1",
+            "author": "Aliyu Pokima",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "ZyCrypto"
+            },
+            "publishedAt": "2023-07-26T13:45:22Z",
+            "url": "https://zycrypto.com/rebranding-twitter-to-x-sends-dogecoin-on-a-rally-heres-why-doge-could-explode-soon/"
+        },
+        {
+            "title": "I got an early look at Volvo's $34,950 electric SUV and saw why it's one of the best Tesla rivals yet",
+            "author": "aol.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T13:40:14Z",
+            "url": "https://biztoc.com/x/f189bf56cca15deb"
+        },
+        {
+            "title": "Tesla Cars Banned From World University Games Prior To Visit From Chinese President Xi Jinping",
+            "author": "zerohedge.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T13:24:03Z",
+            "url": "https://biztoc.com/x/cd71797d2ab3e626"
+        },
+        {
+            "title": "ROCHE HOLDINGS AG : JP Morgan reiterates its Sell rating",
+            "author": "MarketScreener with dpa-AFX Analyser",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T13:23:06Z",
+            "url": "https://www.marketscreener.com/quote/stock/ROCHE-HOLDING-AG-9364975/news/ROCHE-HOLDINGS-AG-JP-Morgan-reiterates-its-Sell-rating-44425118/"
+        },
+        {
+            "title": "UPS : JP Morgan reiterates its Neutral rating",
+            "author": "MarketScreener with dpa-AFX Analyser",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T13:23:02Z",
+            "url": "https://www.marketscreener.com/quote/stock/UNITED-PARCEL-SERVICE-INC-14758/news/UPS-JP-Morgan-reiterates-its-Neutral-rating-44425112/"
+        },
+        {
+            "title": "Analyst Dan Ives Believes Google and Microsoft Are Worth Betting On",
+            "author": "thestreet.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T13:18:22Z",
+            "url": "https://biztoc.com/x/65037c72ba2df278"
+        },
+        {
+            "title": "A big clash is coming for Detroit's Big 3 automakers as the their workers' union gears up for another round of contentious negotiations",
+            "author": "nnaughton@insider.com (Nora Naughton)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "business-insider",
+                "Name": "Business Insider"
+            },
+            "publishedAt": "2023-07-26T13:13:43Z",
+            "url": "https://www.businessinsider.com/uaw-auto-workers-union-negotiations-contract-strike-ford-gm-stellantis-2023-7"
+        },
+        {
+            "title": "I got an early look at Volvo's $34,950 electric SUV and saw why it's one of the best Tesla rivals yet",
+            "author": "businessinsider.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T13:12:05Z",
+            "url": "https://biztoc.com/x/a5661cbd466a40e6"
+        },
+        {
+            "title": "Jack White, Who’s Had Issues With Elon Musk Lately, Is Auctioning Off His Tesla",
+            "author": "Derrick Rossignol",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "UPROXX"
+            },
+            "publishedAt": "2023-07-26T12:50:14Z",
+            "url": "https://uproxx.com/indie/jack-white-auctioning-tesla-elon-musk/"
+        },
+        {
+            "title": "I got an early look at Volvo's $34,950 electric SUV and saw why it's one of the best Tesla rivals yet",
+            "author": "Tim Levin",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "business-insider",
+                "Name": "Business Insider"
+            },
+            "publishedAt": "2023-07-26T12:47:40Z",
+            "url": "https://www.businessinsider.com/volvo-ex30-electric-suv-tesla-rival-photos-2023-7"
+        },
+        {
+            "title": "Biden’s $250 billion lure to clean up the dirty legacy of fossil fuels",
+            "author": "vox.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T12:40:04Z",
+            "url": "https://biztoc.com/x/1c7928c75863e99a"
+        },
+        {
+            "title": "Elon Musk cuts ad prices to lure companies back to Twitter/X",
+            "author": "fortune.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T12:40:03Z",
+            "url": "https://biztoc.com/x/49f0d64279bdd59d"
+        },
+        {
+            "title": "Tesla's Record-Breaking Earnings Report: What Every Investor Needs to Know",
+            "author": "newsfeedback@fool.com (RJ Fulton)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T12:35:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/teslas-record-breaking-earnings-report-what-every/"
+        },
+        {
+            "title": "Elon Musk Has Quietly Primed Crypto For An ‘Absolute Game-Changer’ That Could Cause Chaos For The Price Of Bitcoin, Ethereum, XRP And Dogecoin",
+            "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Forbes"
+            },
+            "publishedAt": "2023-07-26T12:32:11Z",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/07/26/elon-musk-has-quietly-primed-crypto-for-an-absolute-game-changer-that-could-cause-chaos-for-the-price-of-bitcoin-ethereum-xrp-and-dogecoin/"
+        },
+        {
+            "title": "Biden’s $250 billion lure to clean up the dirty legacy of fossil fuels",
+            "author": "Rebecca Leber",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Vox"
+            },
+            "publishedAt": "2023-07-26T12:30:00Z",
+            "url": "https://www.vox.com/climate/23771835/biden-ira-climate-fossil-fuel-energy-investment"
+        },
+        {
+            "title": "Elon Musk Changes X Logo—And Then Changes It Back Again—As Twitter Rebrand Evolves",
+            "author": "Adam",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Socialmediaexplorer.com"
+            },
+            "publishedAt": "2023-07-26T12:25:11Z",
+            "url": "https://socialmediaexplorer.com/content-sections/news-and-noise/elon-musk-changes-x-logo-and-then-changes-it-back-again-as-twitter-rebrand-evolves/"
+        },
+        {
+            "title": "Elon Musk cuts ad prices to lure companies back to Twitter/X",
+            "author": "Christiaan Hetzner",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "fortune",
+                "Name": "Fortune"
+            },
+            "publishedAt": "2023-07-26T12:24:08Z",
+            "url": "https://fortune.com/2023/07/26/elon-musk-twitter-advertising-price-cuts-rebranding/"
+        },
+        {
+            "title": "Whose ULEZ is it anyway? Political chicanery as clean air zone set to expand to outer London",
+            "author": "Simon_MacMichael",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "road.cc"
+            },
+            "publishedAt": "2023-07-26T12:21:00Z",
+            "url": "https://road.cc/content/blog/whose-ulez-it-anyway-302795"
+        },
+        {
+            "title": "San Francisco once courted Twitter. Now it’s a headache",
+            "author": "washingtonpost.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T12:16:34Z",
+            "url": "https://biztoc.com/x/6d6fc5aa30bcdbb5"
+        },
+        {
+            "title": "Stocks will tumble, recession will strike, and dollar dominance is at risk, Thomas Peterffy warns",
+            "author": "aol.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T12:16:12Z",
+            "url": "https://biztoc.com/x/3ab719e4d59f701a"
+        },
+        {
+            "title": "30 Day Kogan FIRST Membership for $1 (Renews at $99 Annually) @ Kogan",
+            "author": "jimojr",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Ozbargain.com.au"
+            },
+            "publishedAt": "2023-07-26T12:15:20Z",
+            "url": "https://www.ozbargain.com.au/node/790321"
+        },
+        {
+            "title": "Stellantis CEO says Tesla margins hurt as EV maker faces reality check",
+            "author": "reuters.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T12:10:04Z",
+            "url": "https://biztoc.com/x/86b2f35ed95aa197"
+        },
+        {
+            "title": "Stellantis CEO says Tesla margins hurt as EV maker faces reality check",
+            "author": "Reuters",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T12:06:00Z",
+            "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Stellantis-CEO-says-Tesla-margins-hurt-as-EV-maker-faces-reality-check-44423846/"
+        },
+        {
+            "title": "Stellantis CEO says Tesla margins hurt as EV maker faces reality check",
+            "author": "Reuters",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Yahoo Entertainment"
+            },
+            "publishedAt": "2023-07-26T12:06:00Z",
+            "url": "https://finance.yahoo.com/news/stellantis-ceo-says-tesla-margins-120600748.html"
+        },
+        {
+            "title": "General Motors Boosts Guidance: Time to Buy the Stock?",
+            "author": "newsfeedback@fool.com (Timothy Green)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T12:05:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/general-motors-boosts-guidance-time-to-buy-the-sto/"
+        },
+        {
+            "title": "Jack White to auction White Stripes guitar and his personal Tesla to help revive Detroit’s Clark Park",
+            "author": "Tyler Damara Kelly",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Thelineofbestfit.com"
+            },
+            "publishedAt": "2023-07-26T12:00:00Z",
+            "url": "https://www.thelineofbestfit.com/news/jack-white-to-auction-white-stripes-guitar-and-his-personal-tesla-to-help-revive-detroits-clark-park"
+        },
+        {
+            "title": "Touching Lives: The Art Of Creating Micro-Impacts With Your Product",
+            "author": "Ian Wilding, Forbes Councils Member, \n Ian Wilding, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/ianwilding/",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Forbes"
+            },
+            "publishedAt": "2023-07-26T12:00:00Z",
+            "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/touching-lives-the-art-of-creating-micro-impacts-with-your-product/"
+        },
+        {
+            "title": "Jack White Selling Personal Tesla, White Stripes, Raconteurs Gear to Benefit Detroit Park",
+            "author": "billboard.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T11:54:09Z",
+            "url": "https://biztoc.com/x/6335a620722ea21b"
+        },
+        {
+            "title": "Tesla Deliveries Could Jump Next Year, but the Growth Rate May Be Lower",
+            "author": "newsfeedback@fool.com (Daniel Sparks)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T11:31:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/tesla-deliveries-could-jump-next-year-but-the-grow/"
+        },
+        {
+            "title": "China’s CATL Posts Record Profit Even As Slowing Demand Bites",
+            "author": "asiafinancial.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T11:30:07Z",
+            "url": "https://biztoc.com/x/7065237bb39304a4"
+        },
+        {
+            "title": "3 Reasons Every Investor Should Own at Least a Little Bitcoin",
+            "author": "newsfeedback@fool.com (RJ Fulton)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T11:30:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/3-reasons-every-investor-should-own-at-least-a-lit/"
+        },
+        {
+            "title": "TE Connectivity Beat Earnings Estimates. Tesla Helped",
+            "author": "barrons.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T11:28:18Z",
+            "url": "https://biztoc.com/x/5f3b7a3c117bcd1f"
+        },
+        {
+            "title": "TE Connectivity Beat Earnings Estimates. Tesla Helped.",
+            "author": "Al Root",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Barron's"
+            },
+            "publishedAt": "2023-07-26T11:26:55Z",
+            "url": "https://www.barrons.com/articles/te-connectivity-earnings-stock-tesla-ev-e262fe23"
+        },
+        {
+            "title": "Stocks will tumble, recession will strike, and dollar dominance is at risk, Thomas Peterffy warns",
+            "author": "tmohamed@insider.com (Theron Mohamed)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "business-insider",
+                "Name": "Business Insider"
+            },
+            "publishedAt": "2023-07-26T11:25:46Z",
+            "url": "https://markets.businessinsider.com/news/stocks/thomas-peterffy-interactive-brokers-stock-market-outlook-recession-dollar-bitcoin-2023-7"
+        },
+        {
+            "title": "3 Soaring Stocks I'd Buy Now With No Hesitation",
+            "author": "newsfeedback@fool.com (Royston Yang)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T11:05:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/3-soaring-stocks-id-buy-now-with-no-hesitation/"
+        },
+        {
+            "title": "In Mexico, private cash races to plug nearshoring energy crunch",
+            "author": "Isabel Woodford",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Yahoo Entertainment"
+            },
+            "publishedAt": "2023-07-26T11:03:26Z",
+            "url": "https://finance.yahoo.com/news/mexico-private-cash-races-plug-110326240.html"
+        },
+        {
+            "title": "In Mexico, private cash races to plug nearshoring energy crunch",
+            "author": "Reuters",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T11:03:26Z",
+            "url": "https://www.marketscreener.com/quote/stock/GRID-INC-155977427/news/In-Mexico-private-cash-races-to-plug-nearshoring-energy-crunch-44422818/"
+        },
+        {
+            "title": "Inflation is heading to zero, according to the one factor Jerome Powell absolutely will not discuss",
+            "author": "Steve Goldstein",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "MarketWatch"
+            },
+            "publishedAt": "2023-07-26T10:50:00Z",
+            "url": "https://www.marketwatch.com/story/inflation-is-heading-to-zero-according-to-the-one-factor-jerome-powell-absolutely-will-not-discuss-5fb6811b"
+        },
+        {
+            "title": "On Cardiac Arrest Of LeBron's Teenager Son, Musk Hints At 'Vaccine' Role",
+            "author": "NDTV Sports Desk",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "NDTV News"
+            },
+            "publishedAt": "2023-07-26T10:49:45Z",
+            "url": "https://sports.ndtv.com/basketball/on-cardiac-arrest-of-lebron-james-teenager-son-elon-musk-hints-at-vaccine-role-4241643"
+        },
+        {
+            "title": "Government’s decision to retain approved permit (AP) system a regressive move, according to economists",
+            "author": "Anthony Lim",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Paul Tan's Automotive News"
+            },
+            "publishedAt": "2023-07-26T10:36:57Z",
+            "url": "https://paultan.org/2023/07/26/governments-decision-to-retain-approved-permit-ap-system-a-regressive-move-according-to-economists/"
+        },
+        {
+            "title": "Solar-Powered Success: How the Solar Cell Market is Taking Over",
+            "author": "SkyQuest Technology Consulting Pvt. Ltd.",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "GlobeNewswire"
+            },
+            "publishedAt": "2023-07-26T10:30:00Z",
+            "url": "https://www.globenewswire.com/news-release/2023/07/26/2711120/0/en/Solar-Powered-Success-How-the-Solar-Cell-Market-is-Taking-Over.html"
+        },
+        {
+            "title": "Elon Musk Changes X Logo—And Then Changes It Back Again—As Twitter Rebrand Evolves",
+            "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Forbes"
+            },
+            "publishedAt": "2023-07-26T10:23:22Z",
+            "url": "https://www.forbes.com/sites/roberthart/2023/07/26/elon-musk-changes-x-logo-and-then-changes-it-back-again-as-twitter-rebrand-evolves/"
+        },
+        {
+            "title": "Teslas barred from China’s World University Games in Chengdu ahead of a Xi visit",
+            "author": "fortune.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T10:20:03Z",
+            "url": "https://biztoc.com/x/6aa11e838d46806a"
+        },
+        {
+            "title": "Bitcoin on track to challenge U.S. dollar?",
+            "author": "foxbusiness.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T10:18:18Z",
+            "url": "https://biztoc.com/x/217135fe93fefc31"
+        },
+        {
+            "title": "Marketmind: Tech splits, banks merge and Fed decides",
+            "author": "reuters.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T10:18:06Z",
+            "url": "https://biztoc.com/x/a42f247d5aaae68a"
+        },
+        {
+            "title": "Electric Truck Wars: Tesla Cybertruck vs Ford F150 Lightning vs Chevy Silverado EV",
+            "author": "newsfeedback@fool.com (Rich Smith)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T10:06:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/electric-truck-wars-tesla-cybertruck-vs-ford-f150/"
+        },
+        {
+            "title": "Tesla sales in California outpace the world's best-selling car company",
+            "author": "teslarati.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T10:04:05Z",
+            "url": "https://biztoc.com/x/b7cba0de8bd8f61d"
+        },
+        {
+            "title": "Tech splits, banks merge and Fed decides",
+            "author": "Reuters",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T10:02:43Z",
+            "url": "https://www.marketscreener.com/quote/currency/AUSTRALIAN-DOLLAR-US-DO-2373531/news/Tech-splits-banks-merge-and-Fed-decides-44422066/"
+        },
+        {
+            "title": "Marketmind: Tech splits, banks merge and Fed decides",
+            "author": "Reuters",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Yahoo Entertainment"
+            },
+            "publishedAt": "2023-07-26T10:02:43Z",
+            "url": "https://finance.yahoo.com/news/marketmind-tech-splits-banks-merge-100243018.html"
+        },
+        {
+            "title": "Teslas barred from China’s World University Games in Chengdu ahead of a Xi visit",
+            "author": "Bloomberg",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "fortune",
+                "Name": "Fortune"
+            },
+            "publishedAt": "2023-07-26T10:02:36Z",
+            "url": "https://fortune.com/2023/07/26/tesla-cars-barred-china-world-university-games-xi-visit-worries-cameras-collect-sensitive-data/"
+        },
+        {
+            "title": "Twitter ‘X’ rebrand spurs hype around potential crypto integration",
+            "author": "blockworks.co",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T10:02:04Z",
+            "url": "https://biztoc.com/x/2d20157bab4a4a4d"
+        },
+        {
+            "title": "Watch SpaceX's Falcon Heavy rocket launch on record-breaking mission tonight",
+            "author": "mwall@space.com (Mike Wall)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Space.com"
+            },
+            "publishedAt": "2023-07-26T10:00:03Z",
+            "url": "https://www.space.com/spacex-falcon-heavy-jupiter-3-satellite-launch"
+        },
+        {
+            "title": "EV drivers say lack of charging stations on main route to northern Manitoba leaves them stranded",
+            "author": "Brittany Greenslade",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "cbc-news",
+                "Name": "CBC News"
+            },
+            "publishedAt": "2023-07-26T10:00:00Z",
+            "url": "https://www.cbc.ca/news/canada/manitoba/electric-vehicle-charging-stations-thompon-1.6917124"
+        },
+        {
+            "title": "The ‘monster’ car that almost broke Tesla",
+            "author": "Andrew J. Hawkins",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": "the-verge",
+                "Name": "The Verge"
+            },
+            "publishedAt": "2023-07-26T10:00:00Z",
+            "url": "https://www.theverge.com/2023/7/26/23807447/tesla-model-3-production-elon-musk-land-of-the-giants"
+        },
+        {
+            "title": "Will Nikola Be Worth More Than Tesla by 2030?",
+            "author": "newsfeedback@fool.com (Leo Sun)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T09:37:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/will-nikola-be-worth-more-than-tesla-by-2030/"
+        },
+        {
+            "title": "3 Growth Stocks That Could Double From Here",
+            "author": "newsfeedback@fool.com (Daniel Foelber, Scott Levine, and Lee Samaha)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T09:30:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/3-growth-stocks-that-could-double-from-here/"
+        },
+        {
+            "title": "JUST EAT TAKEAWAY.COM : Bernstein reiterates its Neutral rating",
+            "author": "MarketScreener with dpa-AFX Analyser",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T09:18:13Z",
+            "url": "https://www.marketscreener.com/quote/stock/JUST-EAT-TAKEAWAY-COM-N-V-31472057/news/JUST-EAT-TAKEAWAY-COM-Bernstein-reiterates-its-Neutral-rating-44421633/"
+        },
+        {
+            "title": "Stellantis marketing VP on Twitter and Threads strategies and its ‘free market’ agency approach",
+            "author": "adage.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T09:18:07Z",
+            "url": "https://biztoc.com/x/2b50ccf1f7290208"
+        },
+        {
+            "title": "‘Hands-off, eyes on’: Ford deploys 'hands-free' driving in cars on UK motorways",
+            "author": "euronews.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T09:16:04Z",
+            "url": "https://biztoc.com/x/90bc6c10eb865090"
+        },
+        {
+            "title": "2 Unstoppable Growth Stocks to Buy on the Dip",
+            "author": "newsfeedback@fool.com (John Ballard)",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Motley Fool"
+            },
+            "publishedAt": "2023-07-26T09:09:00Z",
+            "url": "https://www.fool.com/investing/2023/07/26/2-unstoppable-growth-stocks-to-buy-on-the-dip/"
+        },
+        {
+            "title": "Indonesia reaches out to BYD and Tesla for EV investment",
+            "author": "TechNode Feed",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "TechNode"
+            },
+            "publishedAt": "2023-07-26T09:03:00Z",
+            "url": "http://technode.com/2023/07/26/indonesia-reaches-out-to-byd-and-tesla-for-ev-investment/"
+        },
+        {
+            "title": "JUST EAT TAKEAWAY.COM : Jefferies gives a Buy rating",
+            "author": "MarketScreener with dpa-AFX Analyser",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Marketscreener.com"
+            },
+            "publishedAt": "2023-07-26T08:57:02Z",
+            "url": "https://www.marketscreener.com/quote/stock/JUST-EAT-TAKEAWAY-COM-N-V-31472057/news/JUST-EAT-TAKEAWAY-COM-Jefferies-gives-a-Buy-rating-44421375/"
+        },
+        {
+            "title": "Endurance Of Electric Vehicles Falters In Extreme Heat",
+            "author": "zerohedge.com",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Biztoc.com"
+            },
+            "publishedAt": "2023-07-26T08:44:03Z",
+            "url": "https://biztoc.com/x/c7b8510738451e6c"
+        },
+        {
+            "title": "Twitter’s Original ‘Blue Bird’ Logo Creator Martin Grasser Says ‘It Had a Great 11-Year Run’",
+            "author": "Mattis Meichler",
+            "imageUrl": "markus-winkler-aId-xYRTlEc-unsplash.jpg",
+            "source": {
+                "Id": null,
+                "Name": "Decrypt"
+            },
+            "publishedAt": "2023-07-26T08:31:37Z",
+            "url": "https://decrypt.co/150097/twitters-original-blue-bird-logo-creator-martin-grasser-says-had-great-11-year-run"
+        }
+    ]
+}
