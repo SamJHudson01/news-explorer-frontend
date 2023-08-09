@@ -1,0 +1,89 @@
+  justify-content: space-between;
+  z-index: 2;
+}
+
+.modal__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal__close-button {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: -40px;
+  right: -35px;
+  background: transparent url(../../images/modal_close_button.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  cursor: pointer;
+}
+
+.modal__form-title {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  margin-bottom: 22px;
+}
+
+.modal__input-label {
+  color: #2F71E5;
+  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0;
+
+}
+
+.modal__input {
+  font-size: 14px;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: black;
+  margin-bottom: 31px;
+  margin-top: 9px;
+  line-height: 1.21;
+  border-bottom: rgba(0, 0, 0, 0.2) 1px solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+
+}
+
+.modal__email-input {
+  margin-bottom: 3px;
+}
+
+.modal__input:focus {
+  outline: none;
+}
+
+.modal__submit-button {
+  box-sizing: border-box;
+  width: 360px;
+  height: 64px;
+  margin-top: 8px;
+  border-radius: 100px;
+  background: #2F71E5;
+  box-shadow: 0px 5px 15px 0px rgba(14, 26, 57, 0.20);
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  cursor: pointer;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.modal__submit-button:disabled {
+  background-color: gray;
+  color: #B6BCBF
+}
