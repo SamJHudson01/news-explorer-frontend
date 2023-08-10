@@ -6,6 +6,7 @@ const SignInModal = ({ isOpen, onClose, onSignUpClick, onLogin }) => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState(false);
+  const [buttonFocus, setButtonFocus] = useState(false);
 
   const emailRegex = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i;
 
@@ -65,7 +66,10 @@ const SignInModal = ({ isOpen, onClose, onSignUpClick, onLogin }) => {
         <p className="signin-modal__sign-up-link-text">
           or 
         </p>
-        <button className="signin-modal__sign-up-link" onClick={onSignUpClick}>Sign up</button>
+        <button className={`signin-modal__sign-up-link ${buttonFocus ? "signin-modal__sign-up-link_focused" : ''}`} onClick={onSignUpClick}
+        onFocus={() => setButtonFocus(true)}
+        onBlur={() => setButtonFocus(false)}
+        >Sign up</button>
       </div>
     </ModalWithForm>
   );

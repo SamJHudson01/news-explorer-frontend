@@ -47,8 +47,20 @@
     line-height: 24px;
 }
 
+
+
 .search-form__button:hover {
     background-color: #0056b3;
+}
+
+.search-form__button_disabled {
+    background-color: #E6E8EB;
+    color: #B6BCBF;
+    cursor: default;
+}
+
+.search-form__button_disabled:hover {
+    background-color: #B6C1CD;
 }
 
 @media (max-width: 500px){

@@ -74,6 +74,10 @@
 
 }
 
+.signin-modal__sign-up-link_focused {
+    border-bottom: #2F71E5 1px solid;
+}
+
 .signin-modal__error {
     color: #F00;
     font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;

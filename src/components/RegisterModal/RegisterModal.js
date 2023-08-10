@@ -7,6 +7,7 @@ const RegisterModal = ({ isOpen, onClose, onSigninClick, onRegisterClick }) => {
     const [password, setPassword] = useState('');
     const [error, setError] = useState(false);
     const [username, setUsername] = useState('');
+    const [buttonFocus, setButtonFocus] = useState(false);
 
     const emailRegex = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i;
 
@@ -72,7 +73,15 @@ const RegisterModal = ({ isOpen, onClose, onSigninClick, onRegisterClick }) => {
                 <p className="register-modal__sign-up-link-text">
                     or
                 </p>
-                <button className="register-modal__sign-up-link" onClick={onSigninClick}>Sign in</button>
+                <button
+                    className={`register-modal__sign-up-link${buttonFocus ? ' register-modal__sign-up-link_focused' : ''}`}
+                    onClick={onSigninClick}
+                    onFocus={() => setButtonFocus(true)}
+                    onBlur={() => setButtonFocus(false)}
+                >
+                    Sign in
+                </button>
+
             </div>
         </ModalWithForm>
     );
