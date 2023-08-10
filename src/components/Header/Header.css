@@ -13,6 +13,7 @@
     margin-top: 80px;
     margin-left: 416px;
     margin-right: 416px;
+    width: 488px;
 }
 
 .header__title {
@@ -78,6 +79,7 @@
             margin-left: 16px;
             margin-right: 16px;
             margin-top: 30px;
+            width: auto
             }
 
         .header__title{
