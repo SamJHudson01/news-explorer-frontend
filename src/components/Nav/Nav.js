@@ -56,7 +56,7 @@ const Nav = ({ onSignInClick, onSignOutClick, isSavedNewsHeader }) => {
               <div className="nav__button-container">
                 <button className={"nav__sign-out-button_logged-in nav__overlay-sign-out-btn"} onClick={handleSignOutClick}>
                   <p className="nav__sign-out-button-username">{currentUser}</p>
-                  <img src={logoutIconHome} alt="" className="nav__sign-out-button-icon" />
+                  <img src={logoutIconHome} alt="Logout icon" className="nav__sign-out-button-icon" />
                 </button>
               </div>
             </>
@@ -77,7 +77,7 @@ const Nav = ({ onSignInClick, onSignOutClick, isSavedNewsHeader }) => {
         <button className={`nav__sign-in-button ${isLoggedIn ? "nav__sign-in-button_logged-in" : ""}`} onClick={onSignInClick}>Sign in</button>
         <button className={`nav__sign-out-button ${isLoggedIn ? "nav__sign-out-button_logged-in" : ""}`} onClick={onSignOutClick}>
           <p className="nav__sign-out-button-username">{currentUser}</p>
-          <img src={(isSavedNewsHeader ? logoutIconSavedNews : logoutIconHome)} alt="" className="nav__sign-out-button-icon" />
+          <img src={(isSavedNewsHeader ? logoutIconSavedNews : logoutIconHome)} alt="Logout" className="nav__sign-out-button-icon" />
         </button>
       </div>
     </nav>

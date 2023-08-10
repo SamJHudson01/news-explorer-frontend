@@ -65,8 +65,8 @@ const NewsCard = ({ newsItem }) => {
                     </time>
                     <h2 className="news-card__title">{title}</h2>
                     <p className="news-card__body">{description}</p>
-                    <p className="news-card__publication">{source.name}</p>
                 </article>
+                <p className="news-card__publication">{source.name}</p>
                 <div className='news-card__save-button-container'>
                     {currentPage === '/saved-news' ? (
                         <img

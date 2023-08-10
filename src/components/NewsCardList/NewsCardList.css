@@ -106,9 +106,14 @@
         font-weight: 400;
         line-height: 34px;
     }
+
+    .news-card-list__show-more-button {
+        margin-top: 32px;
+        margin-bottom: 40px;
+    }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 767px) {
     .news-card-list__card-container {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -124,5 +129,10 @@
         justify-content: center;
         margin-left: 16px;
         margin-right: 16px;
+    }
+
+    .news-card-list__show-more-button {
+        margin-top: 21px;
+        margin-bottom: 24px;
     }
 }
