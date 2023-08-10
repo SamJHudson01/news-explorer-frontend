@@ -11,8 +11,8 @@
 
 .header__content {
     margin-top: 80px;
-    margin-left: 416px;
-    margin-right: 416px;
+    margin-left: auto;
+    margin-right: auto;
     width: 488px;
 }
 
@@ -65,8 +65,8 @@
 
     @media (max-width: 700px) {
         .header__content {
-            margin-left: 40px;
-            margin-right: 40px;
+            margin-left: auto;
+            margin-right: auto;
             }
     } 
 
