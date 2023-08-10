@@ -109,8 +109,9 @@
 }
 
 .modal__submit-button:disabled {
-  background-color: gray;
-  color: #B6BCBF
+  background-color: #E6E8EB;
+  color: #B6BCBF;
+  box-shadow: none;
 }
 
 
@@ -130,6 +131,11 @@
     padding: 16px;
     margin-top: 56px;
     height: 100vh;
+  }
+
+  .modal__close-button {
+    top: -43px;
+    right: 5px;
   }
   
 }

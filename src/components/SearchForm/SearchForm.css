@@ -50,7 +50,11 @@
 
 
 .search-form__button:hover {
-    background-color: #0056b3;
+    background-color: #347EFF;
+}
+
+.search-form__button:active {
+    background-color: #2A65CC;
 }
 
 .search-form__button_disabled {
@@ -59,8 +63,9 @@
     cursor: default;
 }
 
+
 .search-form__button_disabled:hover {
-    background-color: #B6C1CD;
+    background-color: #E6E8EB;
 }
 
 @media (max-width: 500px){

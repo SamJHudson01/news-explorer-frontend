@@ -21,6 +21,11 @@ const SearchForm = ({ handleSearch }) => {
 
   const handleInputChange = (e) => {
     setSearchQuery(e.target.value);
+    if (e.target.value.trim() === "") {
+      setDisabled(true);
+    } else {
+      setDisabled(false);
+    }
   };
 
   return (
