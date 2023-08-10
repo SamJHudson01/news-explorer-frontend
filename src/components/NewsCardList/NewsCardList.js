@@ -1,5 +1,5 @@
 import NewsCard from '../NewsCard/NewsCard';
-import { useEffect, useState } from 'react';
+import {  useState } from 'react';
 import './NewsCardList.css';
 import { useContext } from 'react';
 import nothingFound from '../../images/not-found_v1.svg';

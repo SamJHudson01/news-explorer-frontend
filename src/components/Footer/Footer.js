@@ -11,12 +11,12 @@ const Footer = () => {
                     <a href="/home" className="footer__home-link">
                         Home
                     </a>
-                    <a href="https://tripleten.com/" className="footer__triple-ten-link">
+                    <a href="https://tripleten.com/" target="_blank" rel="noreferrer noopener" className="footer__triple-ten-link">
                         TripleTen
                     </a>
                 </div>
                 <div className="footer__socials">
-                    <a href="https://github.com/SamJHudson01" className="footer__github-link">
+                    <a href="https://github.com/SamJHudson01" target="_blank" rel="noreferrer noopener" className="footer__github-link">
                         <img src={githubIcon} alt="GitHub Icon" />
                     </a>
                 </div>
@@ -25,4 +25,4 @@ const Footer = () => {
     )
 }
 
-export default Footer
+export default Footer;
