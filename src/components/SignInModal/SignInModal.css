@@ -1,0 +1,95 @@
+/* SignInModal.css */
+
+.signin-modal__label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    z-index: 4;
+}
+
+.signin-modal__input {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+}
+
+.signin-modal__email-input {
+    margin-bottom: 3px;
+}
+
+.signin-modal__submit-button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.25rem;
+}
+
+.signin-modal__submit-button:disabled {
+    background-color: gray;
+}
+
+.signin-modal__sign-up-link-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+}
+
+.signin-modal__sign-up-link-text {
+    margin-bottom: 0;
+    color: #000;
+    text-align: center;
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 5px;
+}
+
+
+.signin-modal__sign-up-link {
+    display: block;
+    text-decoration: none;
+    color: #2F71E5;
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: none;
+    border: none;
+    outline: none;
+    padding: 0;
+    cursor: pointer;
+
+}
+
+.signin-modal__sign-up-link_focused {
+    border-bottom: #2F71E5 1px solid;
+}
+
+.signin-modal__error {
+    color: #F00;
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 13px;
+}
+
+.signin-modal__no-error {
+    height: 14px;
+    margin-bottom: 13px;
+}
+

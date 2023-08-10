@@ -1,3 +1,10 @@
+html {
+  display: flex;
+  justify-content: center;
+
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +12,117 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #1A1B22;
+  width: 100%;
+  max-width: 1440px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h2 {
+  font-family: Roboto Slab;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 46px;
+}
+
+a {
+  margin: 0;
+  color: inherit;
+  /* Reset the text color */
+  text-decoration: none;
+  /* Remove underline */
+  background-color: transparent;
+  /* Remove any background */
+  cursor: pointer;
+  /* Ensure cursor changes to pointer on hover */
+
+
+}
+
+p {
+  margin-bottom: 10px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 22px;
+}
+
+/* Inter */
+@font-face {
+  font-family: 'Inter';
+  src: url('./vendor/fonts/inter-400-regular.woff2') format('woff2'),
+    url('./vendor/fonts/inter-400-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./vendor/fonts/inter-500.woff2') format('woff2'),
+    url('./vendor/fonts/inter-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto */
+@font-face {
+  font-family: 'Roboto';
+  src: url('./vendor/fonts/roboto-400-regular.woff2') format('woff2'),
+    url('./vendor/fonts/roboto-400-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./vendor/fonts/roboto-500.woff2') format('woff2'),
+    url('./vendor/fonts/roboto-500.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./vendor/fonts/roboto-700.woff2') format('woff2'),
+    url('./vendor/fonts/roboto-700.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./vendor/fonts/roboto-900.woff2') format('woff2'),
+    url('./vendor/fonts/roboto-900.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Roboto Slab */
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('./vendor/fonts/roboto-slab-400-regular.woff2') format('woff2'),
+    url('./vendor/fonts/roboto-slab-400-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto Slab';
+  src: url('./vendor/fonts/roboto-slab-700.woff2') format('woff2'),
+    url('./vendor/fonts/roboto-slab-700.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
