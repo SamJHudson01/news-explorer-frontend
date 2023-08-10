@@ -4,7 +4,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className="footer">
+        <footer className="footer">
             <p className='footer__copyright'>© 2022 Supersite, Powered by News API</p>
             <div className="footer__group-right">
                 <div className="footer__links">
@@ -21,7 +21,7 @@ const Footer = () => {
                     </a>
                 </div>
             </div>
-        </div>
+        </footer>
     )
 }
 

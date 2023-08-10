@@ -16,7 +16,7 @@ const SavedNewsHeader = ({ handleSignInClick, handleSignOutClick }) => {
     const keywordsDisplay = getKeywordsDisplay(savedKeywords);
 
     return (
-        <div className="saved-news-header">
+        <header className="saved-news-header">
             <Nav onSignInClick={handleSignInClick} onSignOutClick={handleSignOutClick} isSavedNewsHeader={true} />
             <div className="saved-news-header__content">
                 <h2 className="saved-news-header__heading">
@@ -27,7 +27,7 @@ const SavedNewsHeader = ({ handleSignInClick, handleSignOutClick }) => {
                 </h3>
                 <p className='saved-news-header__keywords'>By keywords: <span className='saved-news-header__keywords-bold'>{keywordsDisplay}</span></p>
             </div>
-        </div>
+        </header>
     )
 }
 

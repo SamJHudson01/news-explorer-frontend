@@ -32,7 +32,7 @@ const Nav = ({ onSignInClick, onSignOutClick, isSavedNewsHeader }) => {
   }, [isLoggedIn]);
 
   return (
-    <div className={`nav ${isLoggedIn ? "nav_logged-in" : ""}`}>
+    <nav className={`nav ${isLoggedIn ? "nav_logged-in" : ""}`}>
       <h1 className="nav__heading">
       <Link to="/" className={`nav__heading-link ${isOpen ? "nav__heading-link_overlay" : ""}`}>NewsExplorer</Link>
 
@@ -80,7 +80,7 @@ const Nav = ({ onSignInClick, onSignOutClick, isSavedNewsHeader }) => {
           <img src={(isSavedNewsHeader ? logoutIconSavedNews : logoutIconHome)} alt="" className="nav__sign-out-button-icon" />
         </button>
       </div>
-    </div>
+    </nav>
   );
 }
 

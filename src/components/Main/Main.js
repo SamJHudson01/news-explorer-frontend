@@ -6,12 +6,12 @@ import Preloader from '../Preloader/Preloader'
 
 const Main = ({handleSignInClick, handleSignOutClick, handleSearch}) => {
     return (
-        <div className="main">
+        <main className="main">
             <Header handleSignInClick={handleSignInClick} handleSignOutClick={handleSignOutClick} handleSearch={handleSearch} />
             <NewsCardList />
             <Preloader />
             <About />
-        </div>
+        </main>
     )
 }
 

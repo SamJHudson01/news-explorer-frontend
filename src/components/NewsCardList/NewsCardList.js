@@ -16,7 +16,7 @@ const NewsCardList = () => {
     return (
         !isLoading && hasSearched && searchResults.length === 0
             ?
-            <div className='news-card-list_nothing-found'>
+            <section className='news-card-list_nothing-found'>
                 <div className="news-card-list_nothing-found-container">
                     <img className='news-card-list_nothing-found-icon' src={nothingFound} alt="No Results" />
                     <h3 className="news-card-list_nothing-found-heading">
@@ -24,9 +24,9 @@ const NewsCardList = () => {
                     </h3>
                     <p className="news-card-list_nothing-found-subheading">Sorry, but nothing matched your search terms.</p>
                 </div>
-            </div>
+            </section>
             :
-            <div className={`news-card-list ${searchResults?.length === 0 || isLoading ? 'news-card-list_empty' : ''}`}>
+            <section className={`news-card-list ${searchResults?.length === 0 || isLoading ? 'news-card-list_empty' : ''}`}>
                 <h2 className="news-card-list__heading">Search Results</h2>
                 <div className="news-card-list__card-container">
                     {
@@ -38,7 +38,7 @@ const NewsCardList = () => {
                 <button className='news-card-list__show-more-button' onClick={() => {
                     setNumberVisible(numberVisible + 3)
                 }}>Show More</button>
-            </div>
+            </section>
     )
 }
 

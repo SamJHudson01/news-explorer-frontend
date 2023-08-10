@@ -10,7 +10,7 @@ const NewsCardList = () => {
     const { savedCards } = useContext(SavedCardsContext);
     
     return (
-        <div className='saved-news'>
+        <section className='saved-news'>
             <div className="saved-news__card-container">
                 {
                     savedCards?.map(item => (
@@ -20,7 +20,7 @@ const NewsCardList = () => {
 
             </div>
 
-        </div>
+        </section>
     )
 }
 
